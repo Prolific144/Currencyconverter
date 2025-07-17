@@ -1,4 +1,4 @@
-# Neon Multi-Currency Converter
+# Multi-Currency Converter
 
 A simple, responsive currency converter with real-time rates.
 
